@@ -2,10 +2,9 @@
 Mini Project done on Data Base Management System
 
 
-College Management Portal
 
 How to run Project
-1. Download and Unzip the file on your local system copy carrental .
+1. Download or clone this repository the file on your local system copy.
 2. Put College Management System folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 Database Configuration
