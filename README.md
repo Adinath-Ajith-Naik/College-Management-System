@@ -36,3 +36,5 @@ Login Details for Faculty 2 :
 Username: faculty2
 
 Password: faculty2
+
+Note: As CDN are used for design please do keep your internet connection active.
