@@ -6,8 +6,8 @@ How to run Project
 
 Database Configuration
 
-Open phpmyadmin ->
-Import database Students.sql 
+Open phpmyadmin -> Create a database "College_System" ->
+Import the file Students.sql to this database.
 
 For Student User
 
